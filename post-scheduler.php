@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: WordPress Post Scheduler
- * Plugin URI: [Your GitHub Repository URL]
+ * Plugin URI: https://github.com/hostragons
  * Description: Reschedules WordPress posts to publish at regular intervals (two per hour)
  * Version: 1.0.0
- * Author: [Your Name]
- * Author URI: [Your Website]
+ * Author: Hostragons Global Limited
+ * Author URI: https://www.hostragons.com
  * License: MIT
  * Text Domain: wp-post-scheduler
  */
